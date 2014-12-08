@@ -36,6 +36,7 @@
     <string name="ground_overlay_demo_description">Demonstrates how to add a GroundOverlay to a map.</string>
     <string name="hybrid">Hybrid</string>
     <string name="indoor">Indoor</string>
+
     <string-array name="layers_array">
         <item>@string/normal</item>
         <item>@string/hybrid</item>
@@ -43,6 +44,7 @@
         <item>@string/terrain</item>
         <item>@string/none_map</item>
     </string-array>
+
     <string name="layers_demo_label">Layers</string>
     <string name="layers_demo_description">Demonstrates the different map layers.</string>
     <string name="left_arrow">\u2190</string>
@@ -126,5 +128,6 @@
     <string name="zoom_gestures">Zoom Gestures</string>
     <string name="zoom_in">+</string>
     <string name="zoom_out">-</string>
+    <string name="title_activity_maps">Map</string>
 
 </resources>
